@@ -1,0 +1,22 @@
+body{
+    background-image: url(../Imagens/back.png);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+h1{
+   color: black;
+   font-size: 20pt;
+   text-align: center;
+   font-family: Times;
+}
+.SOCIO{
+    left: 10%;
+    position: absolute;
+
+.FILO{
+    right: 10%;
+    position: absolute;
+    
+    
+}

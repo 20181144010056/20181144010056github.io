@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Imagens/background.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:cover;
+}
+h2{
+    color: rgb(90, 1, 117);
+    font-size: 18pt;
+    text-align: center;
+    font-family: Times;
+}
+p{
+    color: rgb(87, 0, 109);
+    font-size: 15pt;
+    text-align: center;
+    font-family: Times;
+}
+a{
+    color: rgb(5, 5, 5);
+}

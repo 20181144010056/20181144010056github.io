@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Imagens/error.png);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+h1{
+   color: white;
+   font-size: 20pt;
+   font-family: Times;
+   text-align: center;
+}
+.FILO{
+    position: absolute;
+    right: 10%;
+}
+.SOCIO{
+    position: absolute;
+    left: 10%;
+
+}
